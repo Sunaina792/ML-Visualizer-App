@@ -5,6 +5,8 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn.pipeline import make_pipeline
 import matplotlib.pyplot as plt
 
+
+
 def linear_regression(X, y):
     model = LinearRegression()
     model.fit(X, y)
