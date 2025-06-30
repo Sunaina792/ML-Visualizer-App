@@ -1,4 +1,4 @@
-# 🤖 ML Visualizer – Supervised Learning Playground
+# 🤖 ML Visualizer – Supervised Learning 
 
 An interactive **Streamlit web app** designed to visualize and evaluate popular **supervised machine learning algorithms**. This tool empowers users to experiment with different **regression** and **classification** models, inspect dataset behavior, view evaluation metrics, and visualize prediction results in real-time.
 
@@ -91,5 +91,12 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+---
+## 🔗 Live Demo
+
+Check out the deployed app here: [ML Visualizer App](https://ml-visualizer-app.streamlit.app/)
+
+---
+
 ### 🙋‍♀️ Made With ❤️ by Sunaina
 
