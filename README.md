@@ -49,6 +49,17 @@ An interactive **Streamlit web app** designed to visualize and evaluate popular 
 
 ---
 
+### 🔍 Regression Visualizer UI
+
+![Regression Visualizer](regression_visualizer.png)
+
+
+### 🤖 Classification Visualizer UI
+
+![Classification Visualizer](classification_visualizer.png)
+
+----
+
 ## 🚀 Features
 
 - Interactive model selection and configuration  
